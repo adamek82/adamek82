@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamek82
 - 👀 I’m interested in algorithms, low-level, and system programming
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on some open-source projects
 - 📫 You can reach me at amichalski at gmail dot com
 - 😄 Pronouns: he/him
