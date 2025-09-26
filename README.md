@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I’ve been programming professionally for 20+ years—mostly in C++, and recently more in Java.
 - 🛠️ I view programming languages as tools — I focus on fundamentals, algorithms, and software engineering foundations rather than mastering a single language.
+- 🔍 I currently collaborate with Samsung on developing a static code analyzer for C, C++, Java, Kotlin, and Go.
 <!---
 adamek82/adamek82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
